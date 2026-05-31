@@ -280,8 +280,8 @@ export const siteConfig = {
       title: "Variant Reviewer AI Agent",
       status: "Coming Soon" as DemoStatus,
       description: "AI-assisted variant significance review across multiple knowledge sources.",
-      github: "",
-      live: "",
+      github: "https://github.com/kaizennathani1998/OncoVariant-Review-Agent.git",
+      live: "https://onco-variant-review-agent.vercel.app/",
       docker: "",
       stack: ["LLM agents", "ClinVar", "dbSNP", "COSMIC"],
       run: {
